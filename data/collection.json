@@ -1,0 +1,491 @@
+{
+  "appName": "Panini World Cup 2026 - Sticker Tracker",
+  "teams": [
+    {
+      "group": "A",
+      "code": "MEX",
+      "name": "México",
+      "flag": "🇲🇽",
+      "color": "#76b82a",
+      "stickers": {
+        "1": "BADGE",
+        "2": "LUIS MALAGÓN",
+        "3": "JOHAN VÁSQUEZ",
+        "4": "JORGE SÁNCHEZ",
+        "5": "CÉSAR MONTES",
+        "6": "JESÚS GALLARDO",
+        "7": "ISRAEL REYES",
+        "8": "DIEGO LAINEZ",
+        "9": "CARLOS RODRÍGUEZ",
+        "10": "EDSON ÁLVAREZ",
+        "11": "ORBELIN PINEDA",
+        "12": "MARCEL RUIZ",
+        "13": "SQUAD",
+        "14": "ÉRICK SÁNCHEZ",
+        "15": "HIRVING LOZANO",
+        "16": "SANTIAGO GIMÉNEZ",
+        "17": "RAÚL JIMÉNEZ",
+        "18": "ALEXIS VEGA",
+        "19": "ROBERTO ALVARADO",
+        "20": "CÉSAR HUERTA"
+      }
+    },
+    {
+      "group": "A",
+      "code": "RSA",
+      "name": "South Africa",
+      "flag": "🇿🇦",
+      "color": "#76b82a"
+    },
+    {
+      "group": "A",
+      "code": "KOR",
+      "name": "Korea Republic",
+      "flag": "🇰🇷",
+      "color": "#76b82a"
+    },
+    {
+      "group": "A",
+      "code": "CZE",
+      "name": "Czechia",
+      "flag": "🇨🇿",
+      "color": "#76b82a"
+    },
+    {
+      "group": "B",
+      "code": "CAN",
+      "name": "Canada",
+      "flag": "🇨🇦",
+      "color": "#ef4551"
+    },
+    {
+      "group": "B",
+      "code": "BIH",
+      "name": "Bosnia-Herzegovina",
+      "flag": "🇧🇦",
+      "color": "#ef4551"
+    },
+    {
+      "group": "B",
+      "code": "QAT",
+      "name": "Qatar",
+      "flag": "🇶🇦",
+      "color": "#ef4551"
+    },
+    {
+      "group": "B",
+      "code": "SUI",
+      "name": "Switzerland",
+      "flag": "🇨🇭",
+      "color": "#ef4551"
+    },
+    {
+      "group": "C",
+      "code": "BRA",
+      "name": "Brazil",
+      "flag": "🇧🇷",
+      "color": "#d7e331"
+    },
+    {
+      "group": "C",
+      "code": "MAR",
+      "name": "Morocco",
+      "flag": "🇲🇦",
+      "color": "#d7e331"
+    },
+    {
+      "group": "C",
+      "code": "HAI",
+      "name": "Haiti",
+      "flag": "🇭🇹",
+      "color": "#d7e331"
+    },
+    {
+      "group": "C",
+      "code": "SCO",
+      "name": "Scotland",
+      "flag": "flag-scotland",
+      "color": "#d7e331",
+      "flagLabel": "Scotland flag",
+      "flagType": "css"
+    },
+    {
+      "group": "D",
+      "code": "USA",
+      "name": "USA",
+      "flag": "🇺🇸",
+      "color": "#2f63bd"
+    },
+    {
+      "group": "D",
+      "code": "PAR",
+      "name": "Paraguay",
+      "flag": "🇵🇾",
+      "color": "#2f63bd"
+    },
+    {
+      "group": "D",
+      "code": "AUS",
+      "name": "Australia",
+      "flag": "🇦🇺",
+      "color": "#2f63bd"
+    },
+    {
+      "group": "D",
+      "code": "TUR",
+      "name": "Türkiye",
+      "flag": "🇹🇷",
+      "color": "#2f63bd"
+    },
+    {
+      "group": "E",
+      "code": "GER",
+      "name": "Germany",
+      "flag": "🇩🇪",
+      "color": "#ff5b27"
+    },
+    {
+      "group": "E",
+      "code": "CUW",
+      "name": "Curaçao",
+      "flag": "🇨🇼",
+      "color": "#ff5b27"
+    },
+    {
+      "group": "E",
+      "code": "CIV",
+      "name": "Côte d’Ivoire",
+      "flag": "🇨🇮",
+      "color": "#ff5b27"
+    },
+    {
+      "group": "E",
+      "code": "ECU",
+      "name": "Ecuador",
+      "flag": "🇪🇨",
+      "color": "#ff5b27"
+    },
+    {
+      "group": "F",
+      "code": "NED",
+      "name": "Netherlands",
+      "flag": "🇳🇱",
+      "color": "#007a63"
+    },
+    {
+      "group": "F",
+      "code": "JPN",
+      "name": "Japan",
+      "flag": "🇯🇵",
+      "color": "#007a63"
+    },
+    {
+      "group": "F",
+      "code": "SWE",
+      "name": "Sweden",
+      "flag": "🇸🇪",
+      "color": "#007a63"
+    },
+    {
+      "group": "F",
+      "code": "TUN",
+      "name": "Tunisia",
+      "flag": "🇹🇳",
+      "color": "#007a63"
+    },
+    {
+      "group": "G",
+      "code": "BEL",
+      "name": "Belgium",
+      "flag": "🇧🇪",
+      "color": "#a992ce"
+    },
+    {
+      "group": "G",
+      "code": "EGY",
+      "name": "Egypt",
+      "flag": "🇪🇬",
+      "color": "#a992ce"
+    },
+    {
+      "group": "G",
+      "code": "IRN",
+      "name": "IR Iran",
+      "flag": "🇮🇷",
+      "color": "#a992ce"
+    },
+    {
+      "group": "G",
+      "code": "NZL",
+      "name": "New Zealand",
+      "flag": "🇳🇿",
+      "color": "#a992ce"
+    },
+    {
+      "group": "H",
+      "code": "ESP",
+      "name": "Spain",
+      "flag": "🇪🇸",
+      "color": "#55beb8"
+    },
+    {
+      "group": "H",
+      "code": "CPV",
+      "name": "Cabo Verde",
+      "flag": "🇨🇻",
+      "color": "#55beb8"
+    },
+    {
+      "group": "H",
+      "code": "KSA",
+      "name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "color": "#55beb8"
+    },
+    {
+      "group": "H",
+      "code": "URU",
+      "name": "Uruguay",
+      "flag": "🇺🇾",
+      "color": "#55beb8"
+    },
+    {
+      "group": "I",
+      "code": "FRA",
+      "name": "France",
+      "flag": "🇫🇷",
+      "color": "#47268e",
+      "stickers": {
+        "1": "BADGE",
+        "2": "MIKE MAIGNAN",
+        "3": "THEO HERNÁNDEZ",
+        "4": "WILLIAM SALIBA",
+        "5": "JULES KOUNDÉ",
+        "6": "IBRAHIMA KONATÉ",
+        "7": "DAYOT UPAMECANO",
+        "8": "LUCAS DIGNE",
+        "9": "AURÉLIEN TCHOUAMÉNI",
+        "10": "EDUARDO CAMAVINGA",
+        "11": "MANU KONÉ",
+        "12": "ADRIEN RABIOT",
+        "13": "SQUAD",
+        "14": "MICHAEL OLISE",
+        "15": "OUSMANE DEMBÉLÉ",
+        "16": "BRADLEY BARCOLA",
+        "17": "DÉSIRÉ DOUÉ",
+        "18": "KINGSLEY COMAN",
+        "19": "HUGO EKITIKÉ",
+        "20": "KYLIAN MBAPPÉ"
+      }
+    },
+    {
+      "group": "I",
+      "code": "SEN",
+      "name": "Senegal",
+      "flag": "🇸🇳",
+      "color": "#47268e"
+    },
+    {
+      "group": "I",
+      "code": "IRQ",
+      "name": "Iraq",
+      "flag": "🇮🇶",
+      "color": "#47268e"
+    },
+    {
+      "group": "I",
+      "code": "NOR",
+      "name": "Norway",
+      "flag": "🇳🇴",
+      "color": "#47268e"
+    },
+    {
+      "group": "J",
+      "code": "ARG",
+      "name": "Argentina",
+      "flag": "🇦🇷",
+      "color": "#f48da0"
+    },
+    {
+      "group": "J",
+      "code": "ALG",
+      "name": "Algeria",
+      "flag": "🇩🇿",
+      "color": "#f48da0"
+    },
+    {
+      "group": "J",
+      "code": "AUT",
+      "name": "Austria",
+      "flag": "🇦🇹",
+      "color": "#f48da0"
+    },
+    {
+      "group": "J",
+      "code": "JOR",
+      "name": "Jordan",
+      "flag": "🇯🇴",
+      "color": "#f48da0"
+    },
+    {
+      "group": "K",
+      "code": "POR",
+      "name": "Portugal",
+      "flag": "🇵🇹",
+      "color": "#e30f5d"
+    },
+    {
+      "group": "K",
+      "code": "COD",
+      "name": "Congo DR",
+      "flag": "🇨🇩",
+      "color": "#e30f5d"
+    },
+    {
+      "group": "K",
+      "code": "UZB",
+      "name": "Uzbekistan",
+      "flag": "🇺🇿",
+      "color": "#e30f5d"
+    },
+    {
+      "group": "K",
+      "code": "COL",
+      "name": "Colombia",
+      "flag": "🇨🇴",
+      "color": "#e30f5d"
+    },
+    {
+      "group": "L",
+      "code": "ENG",
+      "name": "England",
+      "flag": "flag-england",
+      "color": "#8d101b",
+      "flagLabel": "England flag",
+      "flagType": "css"
+    },
+    {
+      "group": "L",
+      "code": "CRO",
+      "name": "Croatia",
+      "flag": "🇭🇷",
+      "color": "#8d101b"
+    },
+    {
+      "group": "L",
+      "code": "GHA",
+      "name": "Ghana",
+      "flag": "🇬🇭",
+      "color": "#8d101b"
+    },
+    {
+      "group": "L",
+      "code": "PAN",
+      "name": "Panama",
+      "flag": "🇵🇦",
+      "color": "#8d101b"
+    }
+  ],
+  "specials": [
+    {
+      "code": "FWC",
+      "name": "FIFA World Cup + History",
+      "items": [
+        "00",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "color": "#1f3b87",
+      "icon": "🏆",
+      "labels": {
+        "00": "PANINI LOGO",
+        "1": "WC LOGO",
+        "2": "WC LOGO",
+        "3": "OFFICIAL MASCOTS",
+        "4": "OFFICIAL SLOGAN",
+        "5": "OFFICIAL BALL",
+        "6": "CANADA - HOST COUNTRY EMBLEM",
+        "7": "MEXICO - HOST COUNTRY EMBLEM",
+        "8": "USA - HOST COUNTRY EMBLEM",
+        "9": "ITALY 1934",
+        "10": "URUGUAY 1950",
+        "11": "GERMANY 1954",
+        "12": "BRAZIL 1962",
+        "13": "GERMANY 1974",
+        "14": "ARGENTINA 1986",
+        "15": "BRAZIL 1994",
+        "16": "BRAZIL 2002",
+        "17": "ITALY 2006",
+        "18": "GERMANY 2014",
+        "19": "ARGENTINA 2022"
+      }
+    },
+    {
+      "code": "CC",
+      "name": "Coca-Cola Specials",
+      "items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "color": "#e31f26",
+      "icon": "🥤",
+      "labels": {
+        "1": "LAMINE YAMAL",
+        "2": "JOSHUA KIMMICH",
+        "3": "EDUARDO CAMAVINGA",
+        "4": "JOŠKO GVARDIOL",
+        "5": "FEDERICO VALVERDE",
+        "6": "VIRGIL VAN DIJK",
+        "7": "ALPHONSO DAVIES",
+        "8": "RAÚL JIMÉNEZ",
+        "9": "WILLIAM SALIBA",
+        "10": "LAUTARO MARTÍNEZ",
+        "11": "HARRY KANE",
+        "12": "ANTONEE ROBINSON"
+      },
+      "teams": {
+        "1": "SPAIN",
+        "2": "GERMANY",
+        "3": "FRANCE",
+        "4": "CROATIA",
+        "5": "URUGUAY",
+        "6": "NETHERLANDS",
+        "7": "CANADA",
+        "8": "MEXICO",
+        "9": "FRANCE",
+        "10": "ARGENTINA",
+        "11": "ENGLAND",
+        "12": "USA"
+      }
+    }
+  ],
+  "version": "0.5",
+  "updatedAt": "2026-06-26"
+}
